@@ -9,11 +9,10 @@ Email Me 👉 ✉️ **sudhanshugupta8381@gmail.com** For Collaboration/Project 
 - 🤔 **I’m looking for help with:** Your project here
 - 💬 **Ask me about:** Collaboration, Tech Support
 - 📫 **How to reach me:** Enter your email here
-- 😄 **Pronouns:** Imran Sir
+- 😄 **Pronouns:** Sudhanshu kumar
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Sudhanshu kumar) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhanshugupta8381@gmail.com) 
+
 <!-- Snake Game Repo View -->
 
 <div align="center">
